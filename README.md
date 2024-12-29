@@ -110,6 +110,6 @@ Social-Media-App/
 If you have any questions or need assistance, feel free to contact me:
 - **Name**: Kashif
 - **Email**: kashifnawaz.engineer@example.com
-- **LinkedIn**: [My Portfolio](https://kashif-baloch.vercel.app/)
+- **Portfolio**: [My Portfolio](https://kashif-baloch.vercel.app/)
 
 Happy Connecting! 🌐
